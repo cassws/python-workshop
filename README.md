@@ -16,9 +16,9 @@ To use the Buffy data in the workshop today, you'll need to create a new file on
 
 * Introductions: What questions do you have about programming?
 * Why solve problems with code?
+---
 * Intro to Python 3
 * Get started with Repl.it
----
 * "Hello, world!"
 * Data types: String, integers
 * Control structures: if/then
@@ -34,7 +34,6 @@ To use the Buffy data in the workshop today, you'll need to create a new file on
 * Ranking character's dialogue time
 * Most frequent words?
 * (Explore more: Natural Language Processing)
----
 * Extra challenges
 * Star Trek script, or continue with Buffy
 ---
