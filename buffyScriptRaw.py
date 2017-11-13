@@ -1,4 +1,4 @@
-script=["Darla: Are you sure this is a good idea?",
+script = ["Darla: Are you sure this is a good idea?",
 "Boy: It's a great idea, now come on.",
 "Darla: Do you go to school here?",
 "Boy: I used to. On top of the gym it's so cool. You can see the whole town.",
@@ -444,5 +444,4 @@ script=["Darla: Are you sure this is a good idea?",
 "Luke: 'When the Master will walk among them once more.'",
 "Luke: 'The Earth will belong to the old ones.'",
 "Luke: 'And Hell itself will come to town.'",
-"Luke: (smiling widely) Amen!",
-]
+"Luke: (smiling widely) Amen!",]
