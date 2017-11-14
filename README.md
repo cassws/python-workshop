@@ -37,6 +37,8 @@ To use the Buffy data in the workshop today, you'll need to create a new file on
 * Extra challenges
 * Star Trek script, or continue with Buffy
 ---
+* The command line environment (CLI)
+* Tips on setting up your development environment
 * Visualizing data (extra topics)
 
 ## Keep learning! Further resources
